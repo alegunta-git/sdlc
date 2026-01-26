@@ -10,7 +10,8 @@ guidelines
 * [How to Navigate USCutter's Website - YouTube](https://www.youtube.com/watch?v=Jv1CnqrZrdU&list=PLmMyXRtEtJEbp_c9Q3K7rT_9Z_76niO6X&index=18)
 * UX Case Study : https://dribbble.com/shots/20950832-UX-Case-Study
 * [Case study behance Furniture app](https://www.behance.net/gallery/132194189/Furniture-App-UIUX-Case-Study)
-* [UX KB](https://uxk* tw notebook : https://youtu.be/rpCt3YATueA?si=p4Fryj1ThGjSnoxa
+* Technical Writer notebook : https://youtu.be/rpCt3YATueA?si=p4Fryj1ThGjSnoxa
+* Ia ovw https://youtu.be/WH-qDeRz8tI?si=6xGMvnhDKw0ysZAj
   
 **UI Patterns**
 * 3 30 300 rule : https://www.sqlbi.com/articles/introducing-the-3-30-300-rule-for-better-reports/
