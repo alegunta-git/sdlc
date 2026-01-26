@@ -29,3 +29,4 @@ Topics
 * JIRA Tutorial bhanu https://www.youtube.com/playlist?list=PL5NG-eEzvTtjmzgslgWJwWGmAn8BB7eRH
 * JIRA admin sl https://youtube.com/playlist?list=PLqWD37Mj2te0BZqI6FksEn3AjBJZhD-EB&si=XLgbYLhYGg0YeF8W
 * jira sc keys https://www.youtube.com/watch?v=pa7AcXJk1uo&list=LL&index=5&pp=gAQBiAQBsAgC
+* Download All Attachments As A Zip File  https://youtu.be/H0zASOvHhGg?si=ZUfTm9GCYCP6layM
