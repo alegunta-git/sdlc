@@ -10,6 +10,7 @@
 * GitHub Tutorials https://youtube.com/playlist?list=PLzF_jqstqDmYmmZNdHM4DnoZo87w6U2TZ&si=QLmNeAthy_drdrxX
 * [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
 * git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
+* How To Search Projects in Github : https://youtu.be/Oiam4tNGZh8?si=0j139GgLT-68PBK9 
 
 **Github**
 * github wiki : https://youtu.be/U18COUDlzu8?si=Lr1l*H7GyQs4gpEv&t=14
