@@ -22,3 +22,10 @@ Topics
 **JIRA Admin**
 * [yt jira cloud admin](https://www.youtube.com/watch?v=WScAjiGdz48&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=55&pp=gAQBiAQB)
 * [Jira admin dump](https://www.dumpsbase.com/freedumps/jira-administrator-acp-100-dumps-questions-and-answers.html)
+
+
+## yt links
+* quick filters https://www.youtube.com/watch?v=aI2VrIZF3jo&list=WL&index=7&pp=gAQBiAQBsAgC
+* JIRA Tutorial bhanu https://www.youtube.com/playlist?list=PL5NG-eEzvTtjmzgslgWJwWGmAn8BB7eRH
+* JIRA admin sl https://youtube.com/playlist?list=PLqWD37Mj2te0BZqI6FksEn3AjBJZhD-EB&si=XLgbYLhYGg0YeF8W
+* jira sc keys https://www.youtube.com/watch?v=pa7AcXJk1uo&list=LL&index=5&pp=gAQBiAQBsAgC
