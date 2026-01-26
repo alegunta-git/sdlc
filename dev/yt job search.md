@@ -5,6 +5,9 @@ dev int
 * [yt g mock i](https://www.youtube.com/watch?v=S1DvEdR0iUo&list=PLmMyXRtEtJEZUAhYNKCpOBP5tlEP7Ky9h&index=13&pp=gAQBiAQB)
 * [yt g staff engr](https://www.youtube.com/watch?v=OeWLeEiqMhQ)
 * 10 GitHub Repositories to Ace Any Tech Interview https://share.google/uG5Bjpt99anlGVm99
+* cv review https://www.youtube.com/watch?v=RZG2ae9CDck&list=LL&index=2&pp=gAQBiAQB0gcJCYcKAYcqIYzvsAgC
+* master py https://www.youtube.com/watch?v=AQJbHAeUhzM&list=LL&index=3&pp=gAQBiAQBsAgC
+* fe arch https://www.youtube.com/watch?v=9-r0RuX0pqk&list=LL&index=4&pp=gAQBiAQBsAgC
 
 resume
 * https://github.com/VGraupera/manager-resources
