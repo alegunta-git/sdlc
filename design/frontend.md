@@ -1,4 +1,8 @@
 ## r7 UI
+
+guidelines
+* apple ui guidelines https://developer.apple.com/design/human-interface-guidelines/
+
 **yt ui**
 * [yt ui design buttons](https://www.youtube.com/watch?v=tJNR_7W_5RM&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=5&pp=gAQBiAQB)
 * [yt website navigation](https://www.youtube.com/watch?v=r8m2wM7eXeU&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=4&pp=gAQBiAQB)
