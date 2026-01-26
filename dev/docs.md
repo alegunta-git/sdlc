@@ -11,6 +11,15 @@
 * DP guidelines https://youtube.com/playlist?list=PLJOFJ3Ok_idseIQ0D1Eq3TO1ipAmn00eL&si=JPFV1fyrdejajorw
 * AOSA v2 https://aosabook.org/en/v2/distsys.html
 
+**Python**
+* [python docs](https://docs.python.org/3/tutorial/index.html)
+* https://docs.python.org/3/tutorial/index.html
+* https://www.globalsqa.com/top-20-open-source-python-libraries/
+
+**Unix**
+* http://www.catb.org/esr/writings/taoup/html/
+* [unix commands](https://www.stationx.net/unix-commands-cheat-sheet/)
+* [Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
 ## wiki
 * https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes
