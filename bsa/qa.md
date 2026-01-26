@@ -19,3 +19,4 @@ Glossary
 **yt QA**
 * basic tech : https://www.youtube.com/playlist?list=PLsjUcU8CQXGEf4fn5o5GYdhnhPCLpdIJ1
 * useful tools : https://www.youtube.com/playlist?list=PLsjUcU8CQXGGmdZ2n0qeYzrfgElvdXxHz
+* IMP Software Tescase design https://youtu.be/7IvNrAThskI?si=7LtrH0s7IzONKnG5
