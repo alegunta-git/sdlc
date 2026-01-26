@@ -1,3 +1,28 @@
+## Recommender Systems
+* Collaborative filtering
+* Content based filtering
+* Matrix factorization 
+* Ranking and learning to rank
+
+## Data mining Algorithms
+* PageRank ,
+* Apriori  ,
+* Naive Bayes 
+* K-means
+* kNN- K Nearest Neighbor 
+* SVM Support Vector machines 
+* Linear Prog (capacity planning) 
+* EM /  C4.5
+* CART - Classification and Regression Trees 
+* Gradient boosting algorithm and
+* AdaBoosting algorithm
+
+## Operating System Algorithms
+* Round Robin
+* FCFS
+* Shortest Job First
+
+
 ## Machine Learning Algorithms
 
 ### Supervised  Learning ( Data with label)
