@@ -6,9 +6,14 @@
 * word to md w/ python https://youtu.be/8mN16cORwkc?si=p3EzOL040HPnfXqM
 * md to pdf https://youtu.be/tp5VYTkBexs?si=3n9fguNCn3ypFI5S
 
-**Github**
+**Github Tutorials**
+* GitHub Tutorials https://youtube.com/playlist?list=PLzF_jqstqDmYmmZNdHM4DnoZo87w6U2TZ&si=QLmNeAthy_drdrxX
 * [github wiki are repos](https://www.youtube.com/watch?v=U18COUDlzu8&list=PLmMyXRtEtJEb0qXMQIZEvGmTDqDLuxkCA&index=24&pp=gAQBiAQB)
+* git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
+
+**Github**
 * github wiki : https://youtu.be/U18COUDlzu8?si=Lr1l*H7GyQs4gpEv&t=14
+* Create gh repo https://youtu.be/LLbEyJs61es?si=opmPhNk_lc9UVkQl
 * [how to sell](https://www.youtube.com/watch?v=_1HEIe7sU0I&list=WL&index=8&pp=gAQBiAQB)
 * https://tylerthetech.com/github-search-tips/
 * https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts
@@ -26,7 +31,7 @@
 * git data:https://www.youtube.com/watch?v=kAUS7YIi7Fk&list=WL&index=4&pp=gAQBiAQB
 * add gif to repo : https://www.youtube.com/watch?v=EF6fqnnl3Uk&list=WL&index=9&pp=gAQBiAQB
 * git tutorial:https://www.youtube.com/watch?v=LbanWJyLMnA&list=PLmMyXRtEtJEaMk5au5y8p8avI5kJuQPHS&index=30&pp=gAQBiAQB
-* git cert : https://youtube.com/playlist?list=PLBfufR7vyJJ4uRXqarjPKqxYq4_Pexj1V&si=1DwDxsoGRNLEAcM1
+
  
 **Notepad++**
 * yt pl : https://youtu.be/PzjPu5F9K9Y?si=CgcLvtmlfMmh-bTk
