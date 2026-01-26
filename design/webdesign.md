@@ -1,4 +1,20 @@
 ## Web Design
+* [web style guide](https://webstyleguide.com/wsg3/index.html)
+* [web design guidelines](https://designsystem.digital.gov/)
+* [Wireframes](https://webdesign.tutsplus.com/a-beginners-guide-to-wireframing--webdesign-7399a)
+* https://www.sitesaga.com/types-of-websites/
+* [9 types websites](https://99designs.com/blog/web-digital/types-of-websites/)
+* [Local Navigation](https://www.nngroup.com/articles/local-navigation/)
+* [25 pages ecomm](https://www.barrelny.com/posts/25-must-have-pages-for-your-ecommerce-website)
+* [29 features](https://www.searchenginejournal.com/ecommerce-guide/must-have-website-features/)
+
+## tech writer
+* tw notebook : https://youtu.be/rpCt3YATueA?si=p4Fryj1ThGjSnoxa
+* tw portfolio : https://youtu.be/68ddwfpXHrE?si=byXgd5De3w7Dc367
+* tw portfolio : https://youtu.be/68ddwfpXHrE?si=byXgd5De3w7Dc367://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
+
+
+## Web Design
 
 **Web Design**
 * IA blue print site ,  top level navigation ( tabs , menu bar , links , buttons ) 
